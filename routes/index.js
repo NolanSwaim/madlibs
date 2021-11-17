@@ -33,8 +33,8 @@ function generateStory1(formData){
   return `Twas a dark stormy ${formData.noun1}. The ${formData.adjective1} pumpkins started to ${formData.verb1}`
 }
 function generateStory2(formData){
-  return `Twas a cold and wintery ${formData.noun1}. The ${formData.adjective1} pumpkins started to ${formData.verb1}`
+  return `Twas a cold chilly ${formData.noun1}. The ${formData.adjective1} cookies started to ${formData.verb1}`
 }
 function generateStory3(formData){
-  return `Twas a rainy and cold ${formData.noun1}. The ${formData.adjective1} pumpkins started to ${formData.verb1}`
+  return `Twas a rainy cold ${formData.noun1}. The ${formData.adjective1} trees started to ${formData.verb1}`
 }
